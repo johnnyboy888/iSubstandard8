@@ -1,0 +1,55 @@
+[33mcommit 6a10250ffdd169073a1720310fac742c6ece0932[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Merge: f784cc0 d9135a7
+Author: John <tranjo@gmail.com>
+Date:   Sat Oct 3 21:53:01 2026 -0400
+
+    merged trouble
+
+[33mcommit f784cc0cc3c2855f0bebaaeb41452567b20e8a9e[m
+Author: John <tranjo@gmail.com>
+Date:   Sat Oct 3 21:48:36 2026 -0400
+
+    alert
+
+[33mcommit d9135a76b1a0791366b7e06457b22575d4b980a6[m[33m ([m[1;32mtrouble[m[33m)[m
+Author: John <tranjo@gmail.com>
+Date:   Sat Oct 3 21:45:49 2026 -0400
+
+    trouble
+
+[33mcommit f464e9d7e1ef367859f5ae3202f1540ac9301c24[m
+Merge: 67140ae 639d413
+Author: John <tranjo@gmail.com>
+Date:   Sat Oct 3 21:39:54 2026 -0400
+
+    Merge branch 'colorscheme'
+
+[33mcommit 67140ae07ba15bfa82994745bb58013f025cfc14[m
+Author: John <tranjo@gmail.com>
+Date:   Sat Oct 3 21:37:53 2026 -0400
+
+    hello world
+
+[33mcommit 639d41380ccbf74b2871755c37656e944d18c799[m[33m ([m[1;32mcolorscheme[m[33m)[m
+Author: John <tranjo@gmail.com>
+Date:   Sat Oct 3 21:34:14 2026 -0400
+
+    added colors
+
+[33mcommit 31055d90ae722204e487627007e93a88cbbeae92[m
+Author: John <tranjo@gmail.com>
+Date:   Sat Oct 3 16:13:59 2026 -0400
+
+    TEST
+
+[33mcommit b68d79013ffb575ef28b976512d65f993fae19ec[m
+Author: John <tranjo@gmail.com>
+Date:   Sat Oct 3 16:13:47 2026 -0400
+
+    TEST
+
+[33mcommit e8c7ad0b90eb67857f49e178928bb0e9e21cc937[m
+Author: John <tranjo@gmail.com>
+Date:   Sat Oct 3 16:10:04 2026 -0400
+
+    added front page
